@@ -1,0 +1,34 @@
+Nível Básico
+-> Soma de dois números: Leia dois números inteiros e imprima sua soma.
+-> Maior de três números: Receba três números e imprima o maior.
+-> Número Primo: Verifique se um número é primo.
+-> Fatorial: Calcule o fatorial de um número usando laço for.
+-> Contagem de caracteres: Leia uma string e conte quantos caracteres ela possui.
+-> Troca de valores: Troque o valor de duas variáveis sem usar uma terceira.
+-> Tabuada: Receba um número e exiba sua tabuada de 1 a 10.
+
+Nível Intermediário
+-> Máximo divisor comum (MDC): Use o algoritmo de Euclides para encontrar o MDC de dois números.
+-> Fibonacci: Implemente a sequência de Fibonacci de forma recursiva e iterativa.
+-> Palíndromo: Verifique se uma string é um palíndromo.
+-> Ordenação: Implemente o Bubble Sort para ordenar um vetor.
+-> Busca Linear: Implemente uma busca linear em um array.
+-> Matriz transposta: Leia uma matriz e exiba sua transposta.
+-> Conversão de Base: Converta um número decimal para binário e hexadecimal.
+
+Nível Avançado
+-> Ponteiros e Alocação Dinâmica: Crie um programa que aloque dinamicamente um vetor de inteiros e permita sua redimensionação.
+-> Manipulação de Arquivos: Crie um programa que leia um arquivo de texto e conte o número de palavras.
+-> Lista Encadeada: Implemente uma lista encadeada com inserção e remoção de elementos.
+-> Filas e Pilhas: Implemente uma pilha e uma fila usando structs e ponteiros.
+-> Árvore Binária: Crie uma árvore binária de busca com inserção e busca de elementos.
+-> Busca Binária: Implemente a busca binária para encontrar um número em um array ordenado.
+-> Torre de Hanói: Resolva o problema da Torre de Hanói com recursão.
+-> Jogo da Velha: Implemente um jogo da velha interativo para dois jogadores.
+
+Desafios Extras
+-> Labirinto (Backtracking): Resolva um labirinto usando busca recursiva.
+-> Calculadora de Expressões: Implemente um avaliador de expressões matemáticas usando pilha.
+-> Compressão de Dados: Implemente uma versão simplificada do algoritmo de Huffman para compressão de texto.
+-> Simulação de Processos: Simule um escalonador de processos usando filas de prioridade.
+-> Algoritmos Genéticos: Implemente um algoritmo genético simples para resolver um problema de otimização.

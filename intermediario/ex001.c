@@ -1,0 +1,1 @@
+//Strings: Leia uma palavra e verifique se ela é um palíndromo.
